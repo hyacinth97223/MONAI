@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/MONAI-logo-color.png" width="50%" alt='project-monai'>
 </p>
 
+
 **M**edical **O**pen **N**etwork for **AI**
 
 ![Supported Python versions](https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/python.svg)
